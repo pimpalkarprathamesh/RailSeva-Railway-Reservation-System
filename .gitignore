@@ -1,0 +1,14 @@
+# Windows specific files
+AppData/
+*.exe
+*.dll
+*.log
+
+# Exclude IDE/editor settings
+/.idea/
+/.vscode/
+
+# Target specific
+/target/
+/bin/
+/out/
